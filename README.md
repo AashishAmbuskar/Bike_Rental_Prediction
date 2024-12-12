@@ -7,15 +7,15 @@ Predict bike rental counts based on environmental and seasonal settings using a 
 
 Skills Involved:
 
-Exploratory data analysis
+1]Exploratory data analysis
 
-Data manipulation
+2]Data manipulation
 
-Data visualization
+3]Data visualization
 
-R programming
+4]R programming
 
-Machine learning
+5]Machine learning
 
 
 Problem Statement:
@@ -24,7 +24,8 @@ Bike-sharing systems automate the process of renting bikes from one location and
 
 Dataset Description:
 
-Variables and Descriptions:
+
+1]Variables and Descriptions:
 
 instant: Record index
 
@@ -65,6 +66,7 @@ casual: Count of casual users
 registered: Count of registered users
 
 cnt: Total count of rented bikes (casual + registered)
+
 
 
 Tasks to Perform (in R):
